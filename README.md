@@ -31,7 +31,7 @@
 I'm a passionate Computer Science graduate interested in software development, Python, and artificial intelligence. I enjoy building practical projects that solve real-world problems, including web applications and AI-powered tools. I'm currently strengthening my programming and automation skills while exploring opportunities to grow as a software developer and AI engineer.
 
 - 🎓 **Education:** B.Tech in Computer Science, G Pulla Reddy Engineering College
-- 💼 **Current Status:** Fresher, actively seeking a job
+- 💼 **Current Status:** Recent B.Tech CSE Graduate | Actively Seeking Opportunities
 - 🎯 **Looking For:** Software Engineer and Software Developer roles
 - 💡 **Interests:** Web Development, Automation, Problem Solving
 - 🎲 **Fun Fact:** I enjoy turning my ideas into real projects by experimenting with code and AI tools. I love learning new technologies and solving problems, even when it takes a few attempts to get things right!
