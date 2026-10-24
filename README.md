@@ -149,8 +149,9 @@ A full-stack job preparation platform with resume analysis, application tracking
 <!-- ======================= CURRENTLY LEARNING ======================= -->
 ## 📚 Currently Learning
 
-- 🐍 Python Automation
-- 🧠 Generative AI
+- 🐍 Python Automation and scripting
+- 🧠 Generative AI and AI-powered application development
+- 🌐 Full-stack development and API integration
 
 ---
 
@@ -158,10 +159,10 @@ A full-stack job preparation platform with resume analysis, application tracking
 ## 🤝 Open to Collaborate On
 
 - 🌐 Open-source projects
-- 💼 Freelance opportunities
-- 🚀 Startup ideas
-- 🏁 Hackathons
-- 🤖 AI/ML projects, especially Python automation, Generative AI, and full-stack web development
+- 💻  Full-stack web applications
+- 🔧 Python automation tools
+- 🏁 Hackathons and practical project ideas
+- 🤖 AI/ML projects, Generative AI Project ideas
 
 ---
 
