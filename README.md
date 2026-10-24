@@ -1,5 +1,5 @@
 <!-- ======================= HERO BANNER ======================= -->
-<h1 align="center">Hi 👋, I'm Diddikunta Venkata Chaya Tharun</h1>
+<h1 align="center">Hi 👋, I'm Chaya Tharun</h1>
 
 <p align="center">
   <a href="https://github.com/chayatharun">
